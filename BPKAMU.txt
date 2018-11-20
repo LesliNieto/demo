@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-Hey Boy, make 'em whistle like a missile.
-Hey Girl, make 'em whistle like a  missile.
-I hope this isn't much of a problem
-=======
+
 DEMO PROJECT
 JUST SOME UPDATES
 This is bound to cause trouble!
->>>>>>> very-bad
+
+Just something going on 
